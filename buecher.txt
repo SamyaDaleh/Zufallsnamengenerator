@@ -1,0 +1,6 @@
+deutsch.txt
+frazoesisch.txt
+orkisch.txt
+saskaran.txt
+zocker.txt
+arzneimittel.txt
